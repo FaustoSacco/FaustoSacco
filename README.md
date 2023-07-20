@@ -1,10 +1,9 @@
 <h1 align="center">Hello, I'm Fausto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1><br>
 
 
-<p align="center">I am a Junior Developer 🧑‍💻</p>
-<p align="center">I'm a creative problem solver 💫</p>
+<p align="center">🧑‍💻 I'm a Junior Developer and a creative problem solver</p>
 
-*<p align="center"> I graduated from The Jump Digital bootcamp in December 2022</p>*
+*<p align="center">:mortar_board: I graduated from The Jump Digital bootcamp in December 2022</p>*
 *<p align="center">:computer: I’m currently learning Typescript</p>*
 *<p align="center">:zap: I’m looking to collaborate on projects</p>*
 *<p align="center">:globe_with_meridians: Pronouns: He / Him</p>*
