@@ -2,7 +2,7 @@
 
 
 <p align="center">I am a Junior Developer 🧑‍💻</p>
-<p align="center">I'm a creative problem solver and I'd love to join a tech company with real purpose for good 💫</p>
+<p align="center">I'm a creative problem solver 💫</p>
 
 *<p align="center"> I graduated from The Jump Digital bootcamp in December 2022</p>*
 *<p align="center">:computer: I’m currently learning Typescript</p>*
