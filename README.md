@@ -3,8 +3,7 @@
 
 <p align="center">🧑‍💻 I'm a Junior Developer and a creative problem solver</p>
 
-*<p align="center">:mortar_board: I graduated from The Jump Digital bootcamp in December 2022</p>*
-*<p align="center">:computer: I’m currently learning Typescript</p>*
+
 *<p align="center">:zap: I’m looking to collaborate on projects</p>*
 *<p align="center">:globe_with_meridians: Pronouns: He / Him</p>*
 *<p align="center">:key: Ask me about my journey into Tech</p>*
