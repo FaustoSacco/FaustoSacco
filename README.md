@@ -4,6 +4,8 @@
 <p align="center">☁️ I’m a Cloud Engineer in training (AWS Certified Cloud Practitioner – in progress)</p>
 
 
+*<p align="center">🔧 Learning & building with AWS (EC2, S3, IAM, VPC, Lambda, CloudFormation, Terraform)</p>*
+*<p align="center">📈 Sharing my hands-on labs and mini-projects as I retrain for a Cloud career</p>*
 *<p align="center">:zap: I’m looking to collaborate on projects</p>*
 *<p align="center">:globe_with_meridians: Pronouns: He / Him</p>*
 *<p align="center">:key: Ask me about my journey into Tech</p>*
