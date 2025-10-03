@@ -20,10 +20,8 @@
 ## 🔹 AWS Projects (Selected)
 - [AWS-EC2-WebServer](#) → Launch EC2 + Apache to host a website  
 - [AWS-S3-StaticWebsite](#) → Static website using S3 + CloudFront  
-- [AWS-Lambda-Inspector](#) → Remediating vulnerabilities with Amazon Inspector  
-- [Terraform-AWS-VPC](#) → VPC, subnets & EC2 using Terraform  
+- [AWS-Lambda-Inspector](#) → Remediating vulnerabilities with Amazon Inspector   
 - [AWS-CostOptimization](#) → Scripts & notes on saving cloud costs  
-
 ---
 
 ## 🔹 Languages & Tools
