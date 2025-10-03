@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Fausto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1><br>
 
 
-<p align="center">🧑‍💻 I'm a Junior Developer and a creative problem solver</p>
+<p align="center">☁️ I’m a Cloud Engineer in training (AWS Certified Cloud Practitioner – in progress)</p>
 
 
 *<p align="center">:zap: I’m looking to collaborate on projects</p>*
