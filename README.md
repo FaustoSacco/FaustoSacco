@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Fausto  
 
 ☁️ **Cloud Engineer in Training** | AWS Bootcamp (2025)  
-🔧 Building hands-on projects with **AWS (EC2, S3, IAM, VPC, Lambda, CloudFormation, Terraform)**  
+🔧 Building hands-on projects with **AWS (EC2, S3, IAM, VPC, Lambda, CloudFormation)**  
 💡 From Chef 👨‍🍳 & Ex-Military ✈️ to Cloud Computing Engineer — bringing discipline, problem-solving, and creativity into tech  
 🐶 Fun fact: My rescue dog sometimes joins my coding sessions on camera!  
 
