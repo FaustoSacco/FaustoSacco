@@ -12,7 +12,6 @@
 - 📦 Hosting **static websites with S3 + CloudFront**  
 - 🔐 Securing apps with **IAM roles & policies**  
 - ⚡ Automating with **AWS Lambda**  
-- 🏗️ Building infrastructure as code with **Terraform & CloudFormation**  
 - 📊 Exploring **AWS cost optimization & monitoring**  
 
 ---
