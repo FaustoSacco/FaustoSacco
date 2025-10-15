@@ -27,7 +27,6 @@
 ## 🔹 Languages & Tools
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/Linux-Terminal-blue?logo=linux)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow?logo=python)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-darkgreen?logo=gnu-bash)
